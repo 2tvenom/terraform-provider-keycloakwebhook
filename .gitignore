@@ -1,0 +1,10 @@
+.idea
+
+terraform.tfstate
+terraform.tfstate.*
+.terraform.lock.hcl
+.terraform
+
+webhook_test.sh
+
+examples/provider-install-verification
